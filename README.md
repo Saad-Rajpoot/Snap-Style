@@ -14,12 +14,11 @@ SnapStyle is a versatile photo filter carousel Flutter project designed to enhan
 ## Screenshots
 
 <p align="start">
-  <img src="https://github.com/Saad-Rajpoot/SnapStyle/assets/72617801/09df6311-b7be-46b9-8188-24a30fd25964" alt="Snap1" width="200"/>
-  <img src="https://github.com/Saad-Rajpoot/SnapStyle/assets/72617801/10878989-4aba-47f1-b2b4-8e79af33261e" alt="Snap2" width="200"/>
-  <img src="https://github.com/Saad-Rajpoot/SnapStyle/assets/72617801/6ba6146a-34ea-44e7-9e31-36cbc114353d" alt="Snap3" width="200"/>
-  <img src="https://github.com/Saad-Rajpoot/SnapStyle/assets/72617801/c234c8e9-e8ad-4229-95fc-c251e7c7f291" alt="Snap4" width="200"/>
+  <img src="https://github.com/Saad-Rajpoot/SnapStyle/assets/72617801/64042ea5-ec4e-4109-9ae4-ddd29bfbb90e" alt="Snap1" width="200"/>
+  <img src="https://github.com/Saad-Rajpoot/SnapStyle/assets/72617801/6e4a6913-2877-4a97-adbc-1aab189ea186" alt="Snap2" width="200"/>
+  <img src="https://github.com/Saad-Rajpoot/SnapStyle/assets/72617801/6f1679f4-ed03-4ca8-80c6-ab7abd951eaa" alt="Snap3" width="200"/>
+  <img src="https://github.com/Saad-Rajpoot/SnapStyle/assets/72617801/ca30a9d1-78f1-4567-8d94-22ed29f0ed85" alt="Snap4" width="200"/>
 </p>
-
 
 
 ## Getting Started
